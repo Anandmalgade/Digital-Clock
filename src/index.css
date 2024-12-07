@@ -1,0 +1,19 @@
+.body
+{
+   font-family:"poppins",sans-serif;
+}
+.container
+{
+   text-align: center;
+   
+}
+.container .para
+{
+   font-size:48px;
+   color:rgb(11, 238, 132);
+}
+.container .text
+{
+   font-size:70px;
+   color:red;
+}
